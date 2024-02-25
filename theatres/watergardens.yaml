@@ -1,0 +1,7 @@
+xtremescreen:
+  type_a:
+    max_row: H
+  type_b:
+    max_row: F
+
+state: VIC
